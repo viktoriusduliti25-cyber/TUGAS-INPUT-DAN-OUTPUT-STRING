@@ -1,0 +1,10 @@
+nama = input("Masukkan nama: ")
+umur = input("Masukkan umur: ")
+alamat = input("Masukkan alamat: ")
+hobi = input("Masukkan hobi: ")
+
+print("\n=== BIODATA ===")
+print("Nama   : {}".format(nama))
+print("Umur   : {} tahun".format(umur))
+print("Alamat : {}".format(alamat))
+print("Hobi   : {}".format(hobi))
